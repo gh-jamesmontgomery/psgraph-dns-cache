@@ -1,8 +1,8 @@
 # psgraph-dns-cache
 
-Working with the Windows DNS cache to create visuals via PSGraph.
+An example of using PSGraph. I am using the Windows DNS cache as source data.
 
-The write of this can be found here:
+The write-up of this is here:
 
 [https://ja.mesmontgomery.co.uk/2019/04/visualising-your-dns-cache-with-psgraph/](https://ja.mesmontgomery.co.uk/2019/04/visualising-your-dns-cache-with-psgraph/)
 
